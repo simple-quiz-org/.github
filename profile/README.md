@@ -1,12 +1,14 @@
-## Hi there 👋
+# simple-quiz
 
-<!--
+easy, of fun, completely free, and **"SIMPLE"** quiz website.  
+you can make quiz by using quiz-template(or as you make), and then, open a room for one who you want to join.
 
-**Here are some ideas to get you started:**
+now, you can start quiz game.
+everyone can see how rivals solve the quizzes, who failed the promlem.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+finally, let's check who got the best score, and won the game.
+simple-quiz must make your relations closer, and tight!!!
+
+never miss this opportunity.
+
+let's start quiz!
